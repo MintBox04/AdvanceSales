@@ -75,15 +75,15 @@
     ]
   },
   "My Lord": {
-    "shows": 257,
-    "gross": 1180064.47,
-    "sold": 9390,
-    "totalSeats": 98053,
-    "venues": 80,
-    "cities": 53,
+    "shows": 261,
+    "gross": 1185464.47,
+    "sold": 9426,
+    "totalSeats": 100125,
+    "venues": 81,
+    "cities": 54,
     "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 9.58,
+    "occupancy": 9.41,
     "City_details": [
       {
         "city": "Tuticorin",
@@ -120,6 +120,18 @@
         "fastfilling": 1,
         "housefull": 0,
         "occupancy": 14.84
+      },
+      {
+        "city": "Thiruvallur",
+        "state": "tamil-nadu",
+        "venues": 1,
+        "shows": 4,
+        "gross": 5400.0,
+        "sold": 36,
+        "totalSeats": 2072,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 1.74
       },
       {
         "city": "Alangulam",
@@ -725,40 +737,40 @@
     "Language_details": [
       {
         "language": "Tamil",
-        "venues": 80,
-        "shows": 257,
-        "gross": 1180064.47,
-        "sold": 9390,
-        "totalSeats": 98053,
+        "venues": 81,
+        "shows": 261,
+        "gross": 1185464.47,
+        "sold": 9426,
+        "totalSeats": 100125,
         "fastfilling": 2,
         "housefull": 0,
-        "occupancy": 9.58
+        "occupancy": 9.41
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 80,
-        "shows": 257,
-        "gross": 1180064.47,
-        "sold": 9390,
-        "totalSeats": 98053,
+        "venues": 81,
+        "shows": 261,
+        "gross": 1185464.47,
+        "sold": 9426,
+        "totalSeats": 100125,
         "fastfilling": 2,
         "housefull": 0,
-        "occupancy": 9.58
+        "occupancy": 9.41
       }
     ]
   },
   "With Love": {
     "shows": 274,
-    "gross": 1933159.72,
-    "sold": 17500,
-    "totalSeats": 113404,
+    "gross": 1941559.72,
+    "sold": 17556,
+    "totalSeats": 113368,
     "venues": 79,
     "cities": 54,
     "fastfilling": 7,
     "housefull": 0,
-    "occupancy": 15.43,
+    "occupancy": 15.49,
     "City_details": [
       {
         "city": "Tuticorin",
@@ -789,12 +801,12 @@
         "state": "tamil-nadu",
         "venues": 1,
         "shows": 4,
-        "gross": 5400.0,
-        "sold": 36,
-        "totalSeats": 2072,
+        "gross": 13800.0,
+        "sold": 92,
+        "totalSeats": 2036,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": 1.74
+        "occupancy": 4.52
       },
       {
         "city": "Narasaraopet",
@@ -1414,12 +1426,12 @@
         "language": "Tamil",
         "venues": 69,
         "shows": 244,
-        "gross": 1860632.72,
-        "sold": 16930,
-        "totalSeats": 106643,
+        "gross": 1869032.72,
+        "sold": 16986,
+        "totalSeats": 106607,
         "fastfilling": 7,
         "housefull": 0,
-        "occupancy": 15.88
+        "occupancy": 15.93
       },
       {
         "language": "Telugu",
@@ -1438,12 +1450,12 @@
         "dimension": "2D",
         "venues": 79,
         "shows": 274,
-        "gross": 1933159.72,
-        "sold": 17500,
-        "totalSeats": 113404,
+        "gross": 1941559.72,
+        "sold": 17556,
+        "totalSeats": 113368,
         "fastfilling": 7,
         "housefull": 0,
-        "occupancy": 15.43
+        "occupancy": 15.49
       }
     ]
   },
