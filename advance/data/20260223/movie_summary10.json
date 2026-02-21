@@ -1,7 +1,7 @@
 {
   "With Love": {
     "shows": 125,
-    "gross": 946073.36,
+    "gross": 944473.36,
     "sold": 9584,
     "totalSeats": 52031,
     "venues": 39,
@@ -219,7 +219,7 @@
         "state": "tamil-nadu",
         "venues": 1,
         "shows": 4,
-        "gross": 12520.0,
+        "gross": 10920.0,
         "sold": 100,
         "totalSeats": 1104,
         "fastfilling": 0,
@@ -388,7 +388,7 @@
         "language": "Tamil",
         "venues": 37,
         "shows": 117,
-        "gross": 905307.36,
+        "gross": 903707.36,
         "sold": 9331,
         "totalSeats": 50547,
         "fastfilling": 6,
@@ -412,7 +412,7 @@
         "dimension": "2D",
         "venues": 39,
         "shows": 125,
-        "gross": 946073.36,
+        "gross": 944473.36,
         "sold": 9584,
         "totalSeats": 52031,
         "fastfilling": 6,
@@ -1002,8 +1002,8 @@
   },
   "Ghilli": {
     "shows": 109,
-    "gross": 1281082.18,
-    "sold": 11166,
+    "gross": 1281342.18,
+    "sold": 11168,
     "totalSeats": 54951,
     "venues": 32,
     "cities": 22,
@@ -1016,12 +1016,12 @@
         "state": "tamil-nadu",
         "venues": 7,
         "shows": 22,
-        "gross": 368348.18,
-        "sold": 3419,
+        "gross": 368608.18,
+        "sold": 3421,
         "totalSeats": 13829,
         "fastfilling": 3,
         "housefull": 0,
-        "occupancy": 24.72
+        "occupancy": 24.74
       },
       {
         "city": "Annur",
@@ -1281,8 +1281,8 @@
         "language": "Tamil",
         "venues": 32,
         "shows": 109,
-        "gross": 1281082.18,
-        "sold": 11166,
+        "gross": 1281342.18,
+        "sold": 11168,
         "totalSeats": 54951,
         "fastfilling": 8,
         "housefull": 0,
@@ -1294,8 +1294,8 @@
         "dimension": "2D",
         "venues": 32,
         "shows": 109,
-        "gross": 1281082.18,
-        "sold": 11166,
+        "gross": 1281342.18,
+        "sold": 11168,
         "totalSeats": 54951,
         "fastfilling": 8,
         "housefull": 0,
@@ -4014,15 +4014,15 @@
     ]
   },
   "Soodhu Kavvum": {
-    "shows": 10,
-    "gross": -19280.0,
-    "sold": -124,
-    "totalSeats": 3492,
-    "venues": 3,
-    "cities": 3,
+    "shows": 12,
+    "gross": -16880.0,
+    "sold": -100,
+    "totalSeats": 3774,
+    "venues": 4,
+    "cities": 4,
     "fastfilling": 0,
     "housefull": 0,
-    "occupancy": -3.55,
+    "occupancy": -2.65,
     "City_details": [
       {
         "city": "Annur",
@@ -4059,45 +4059,57 @@
         "fastfilling": 0,
         "housefull": 0,
         "occupancy": -78.15
+      },
+      {
+        "city": "Palladam",
+        "state": "tamil-nadu",
+        "venues": 1,
+        "shows": 2,
+        "gross": 2400.0,
+        "sold": 24,
+        "totalSeats": 282,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 8.51
       }
     ],
     "Language_details": [
       {
         "language": "Tamil",
-        "venues": 3,
-        "shows": 10,
-        "gross": -19280.0,
-        "sold": -124,
-        "totalSeats": 3492,
+        "venues": 4,
+        "shows": 12,
+        "gross": -16880.0,
+        "sold": -100,
+        "totalSeats": 3774,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": -3.55
+        "occupancy": -2.65
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 3,
-        "shows": 10,
-        "gross": -19280.0,
-        "sold": -124,
-        "totalSeats": 3492,
+        "venues": 4,
+        "shows": 12,
+        "gross": -16880.0,
+        "sold": -100,
+        "totalSeats": 3774,
         "fastfilling": 0,
         "housefull": 0,
-        "occupancy": -3.55
+        "occupancy": -2.65
       }
     ]
   },
   "My Lord": {
-    "shows": 31,
-    "gross": 116390.0,
-    "sold": 1169,
-    "totalSeats": 11199,
-    "venues": 10,
-    "cities": 7,
+    "shows": 33,
+    "gross": 118790.0,
+    "sold": 1193,
+    "totalSeats": 11481,
+    "venues": 11,
+    "cities": 8,
     "fastfilling": 2,
     "housefull": 0,
-    "occupancy": 10.44,
+    "occupancy": 10.39,
     "City_details": [
       {
         "city": "Annur",
@@ -4160,6 +4172,18 @@
         "occupancy": 0.32
       },
       {
+        "city": "Palladam",
+        "state": "tamil-nadu",
+        "venues": 1,
+        "shows": 2,
+        "gross": 2400.0,
+        "sold": 24,
+        "totalSeats": 282,
+        "fastfilling": 0,
+        "housefull": 0,
+        "occupancy": 8.51
+      },
+      {
         "city": "Tirupattur",
         "state": "tamil-nadu",
         "venues": 2,
@@ -4187,27 +4211,27 @@
     "Language_details": [
       {
         "language": "Tamil",
-        "venues": 10,
-        "shows": 31,
-        "gross": 116390.0,
-        "sold": 1169,
-        "totalSeats": 11199,
+        "venues": 11,
+        "shows": 33,
+        "gross": 118790.0,
+        "sold": 1193,
+        "totalSeats": 11481,
         "fastfilling": 2,
         "housefull": 0,
-        "occupancy": 10.44
+        "occupancy": 10.39
       }
     ],
     "Format_details": [
       {
         "dimension": "2D",
-        "venues": 10,
-        "shows": 31,
-        "gross": 116390.0,
-        "sold": 1169,
-        "totalSeats": 11199,
+        "venues": 11,
+        "shows": 33,
+        "gross": 118790.0,
+        "sold": 1193,
+        "totalSeats": 11481,
         "fastfilling": 2,
         "housefull": 0,
-        "occupancy": 10.44
+        "occupancy": 10.39
       }
     ]
   },
